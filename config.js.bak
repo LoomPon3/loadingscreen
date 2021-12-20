@@ -157,7 +157,7 @@ config.messages_delay = 900
 
 // Messages fade duration
 // in milliseconds
-config.messages_fade_duration = 1000
+config.messages_fade_duration = 900
 
 // Show errors inside Garry's Mod?
 // Can be useful for finding errors
