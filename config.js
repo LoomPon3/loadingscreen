@@ -16,7 +16,7 @@
 config.language = "english"
 
 // Use an image for the logo instead of text
-config.logo_use_image = true
+config.logo_use_image = false
 
 // Image filename for the server logo
 // (Place the image file in the images folder)
@@ -108,8 +108,8 @@ config.music_show = true
 // (Place the audio files in the music folder)
 config.music_playlist = [
 	{
-		name: "Jason Shaw - Sideways Samba - Audionautix.com",
-		file: "sideways_samba.ogg",
+		name: "OneRepublic - Lose Myself",
+		file: "OneRepublic - Lose Myself.ogg",
 	},
 	{
 		name: "Devil Survivor 2 - Exploration",

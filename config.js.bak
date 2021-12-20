@@ -16,7 +16,7 @@
 config.language = "english"
 
 // Use an image for the logo instead of text
-config.logo_use_image = true
+config.logo_use_image = false
 
 // Image filename for the server logo
 // (Place the image file in the images folder)
@@ -39,7 +39,7 @@ config.logo_show_info = false
 // Use a video for the background?
 // Otherwise it will use images
 // "true" or "false"
-config.background_use_video = false
+config.background_use_video = true
 
 // Default available videos:
 // "blue_rays.webm"
