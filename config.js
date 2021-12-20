@@ -111,18 +111,6 @@ config.music_playlist = [
 		name: "OneRepublic - Lose Myself",
 		file: "OneRepublic - Lose Myself.ogg",
 	},
-	{
-		name: "Devil Survivor 2 - Exploration",
-		youtube: "https://www.youtube.com/watch?v=Zyu-BSdma3g",
-	},
-	{
-		name: "VA-11 Hall-A - Every Day Is Night",
-		youtube: "https://youtu.be/H-AfGh8gmiQ",
-	},
-	{
-		name: "Sonic Mania - Comfort Zone",
-		youtube: "f4CBQ9nnQSY",
-	},
 ]
 
 // Random music order?
